@@ -13,10 +13,7 @@ This course introduces students to the fundamental concepts of random processes,
 ## Unit Learning Outcomes
 1. demonstrate understanding of the mathematical basis of continuous-time Markov chains
 2. demonstrate the ability to formulate continuous-time Markov chain models for relevant practical systems
-
 3. demonstrate the ability to apply the theory developed in the course to problems of an
 appropriate level of difficulty
-
 4. develop an appreciation of the role of random processes in system modelling
-
 5. demonstrate skills in communicating mathematics orally and in writing
