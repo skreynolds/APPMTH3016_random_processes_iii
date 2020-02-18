@@ -1,6 +1,6 @@
-<img src="https://global.adelaide.edu.au/v/style-guide2/assets/img/logo.png" alt="University of Adelaide" width="200" />
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/University-of-Adelaide-Logo.svg/220px-University-of-Adelaide-Logo.svg.png" width="200" />
 
-# ENG471 Analogue Devices
+# APPMTH3016 Random Processes III
 This course introduces students to the fundamental concepts of random processes, particularly continuous-time Markov chains, and related structures. These are the essential building blocks of any random system, be it a telecommunications network, a hospital waiting list or a transport system. They also arise in many other environments, where you wish to capture the development of some element of random behaviour over time, such as the state of the surrounding environment. Topics covered are:
 * **Continuous-time Markov-chains**: definition and basic properties; transient behaviour; the stationary distribution; hitting probabilities and expected hitting times; and reversibility.
 * **Queueing Networks**: Kendall's notation; Jackson networks; and mean;
